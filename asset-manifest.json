@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-MUI-resturant-app/static/css/main.f6712bd8.css",
+    "main.js": "/react-MUI-resturant-app/static/js/main.7883f385.js",
+    "static/js/787.ef264814.chunk.js": "/react-MUI-resturant-app/static/js/787.ef264814.chunk.js",
+    "static/media/gujrati.jpg": "/react-MUI-resturant-app/static/media/gujrati.e30edb4b1e6d553aa0e4.jpg",
+    "static/media/banner.jpg": "/react-MUI-resturant-app/static/media/banner.1387414421937224753b.jpg",
+    "static/media/idli.jpg": "/react-MUI-resturant-app/static/media/idli.94e0964f7706fbba3fc7.jpg",
+    "static/media/paneer.jpg": "/react-MUI-resturant-app/static/media/paneer.ebd084b2c812704bb6d4.jpg",
+    "static/media/dosa.jpg": "/react-MUI-resturant-app/static/media/dosa.b6802ac58aed22bc8743.jpg",
+    "static/media/masala.jpg": "/react-MUI-resturant-app/static/media/masala.ef26313f4c1fb57638c6.jpg",
+    "static/media/chhola.webp": "/react-MUI-resturant-app/static/media/chhola.a0849a919ec1854870ca.webp",
+    "index.html": "/react-MUI-resturant-app/index.html",
+    "main.f6712bd8.css.map": "/react-MUI-resturant-app/static/css/main.f6712bd8.css.map",
+    "main.7883f385.js.map": "/react-MUI-resturant-app/static/js/main.7883f385.js.map",
+    "787.ef264814.chunk.js.map": "/react-MUI-resturant-app/static/js/787.ef264814.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6712bd8.css",
+    "static/js/main.7883f385.js"
+  ]
+}
